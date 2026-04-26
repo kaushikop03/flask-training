@@ -22,4 +22,4 @@ connection.close()
 
 print("Database and table created successfully")
 
-print("db file created successfully")
+# print("db file created successfully")
